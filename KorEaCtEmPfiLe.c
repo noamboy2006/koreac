@@ -1,4 +1,4 @@
-샵인클루드 <stdio.h>
+#인클루드 <stdio.h>
 int main(){
   int a;
   a=10;

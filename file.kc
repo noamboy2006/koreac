@@ -1,7 +1,7 @@
 샵인클루드 <stdio.h>
-int main(){
+int main 여는소괄호 닫는소괄호 여는중괄호
   int a;
   a=10;
   printf("%d",a);
   return 0;
-}
+닫는중괄호
